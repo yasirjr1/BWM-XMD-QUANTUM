@@ -40,7 +40,7 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "Asad-Malik",
       "required": false
     },
     "BOT_IMAGE": {
@@ -65,17 +65,17 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "923275374285",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
-      "required": false 
+      "value": "💚,🦋,🌸,🌹",
+      "required": true 
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
-      "value": "no",
+      "value": "yes",
       "required": false 
     },
    "AUTO_REACT_STATUS": {
